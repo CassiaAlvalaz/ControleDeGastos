@@ -37,8 +37,10 @@ Arquivo: appsettings.json
 ```
 
 Swagger:
-<img width="1222" height="632" alt="image" src="https://github.com/user-attachments/assets/c0d1e270-816f-414e-8122-333ee65400e1" />
+<img width="1228" height="630" alt="image" src="https://github.com/user-attachments/assets/61791efd-4f3d-4a17-b77b-b8f25fa13d13" />
+
 
 Banco de Dados: SqlServer
 
-<img width="186" height="74" alt="image" src="https://github.com/user-attachments/assets/0a83678b-8fd8-4106-bec3-2fe6bd81f888" />
+<img width="186" height="74" alt="image" src="https://github.com/user-attachments/assets/cc3e60c9-363d-440a-944a-d9e4f25de654" />
+
