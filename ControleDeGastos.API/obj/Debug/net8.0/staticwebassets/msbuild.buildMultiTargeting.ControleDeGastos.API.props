@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\ControleDeGastos.API.props" />
-</Project>
