@@ -1,0 +1,17 @@
+C:\Users\Cassia Alvalaz\Desktop\ControleDeGastos\ControleDeGastos\ControleDeGastos.Infrastructure\bin\Debug\net8.0\ControleDeGastos.Infrastructure.deps.json
+C:\Users\Cassia Alvalaz\Desktop\ControleDeGastos\ControleDeGastos\ControleDeGastos.Infrastructure\bin\Debug\net8.0\ControleDeGastos.Infrastructure.runtimeconfig.json
+C:\Users\Cassia Alvalaz\Desktop\ControleDeGastos\ControleDeGastos\ControleDeGastos.Infrastructure\bin\Debug\net8.0\ControleDeGastos.Infrastructure.dll
+C:\Users\Cassia Alvalaz\Desktop\ControleDeGastos\ControleDeGastos\ControleDeGastos.Infrastructure\bin\Debug\net8.0\ControleDeGastos.Infrastructure.pdb
+C:\Users\Cassia Alvalaz\Desktop\ControleDeGastos\ControleDeGastos\ControleDeGastos.Infrastructure\bin\Debug\net8.0\ControleDeGastos.Domain.dll
+C:\Users\Cassia Alvalaz\Desktop\ControleDeGastos\ControleDeGastos\ControleDeGastos.Infrastructure\bin\Debug\net8.0\ControleDeGastos.Domain.pdb
+C:\Users\Cassia Alvalaz\Desktop\ControleDeGastos\ControleDeGastos\ControleDeGastos.Infrastructure\obj\Debug\net8.0\ControleDeGastos.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Cassia Alvalaz\Desktop\ControleDeGastos\ControleDeGastos\ControleDeGastos.Infrastructure\obj\Debug\net8.0\ControleDeGastos.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cassia Alvalaz\Desktop\ControleDeGastos\ControleDeGastos\ControleDeGastos.Infrastructure\obj\Debug\net8.0\ControleDeGastos.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Cassia Alvalaz\Desktop\ControleDeGastos\ControleDeGastos\ControleDeGastos.Infrastructure\obj\Debug\net8.0\ControleDeGastos.Infrastructure.AssemblyInfo.cs
+C:\Users\Cassia Alvalaz\Desktop\ControleDeGastos\ControleDeGastos\ControleDeGastos.Infrastructure\obj\Debug\net8.0\ControleDeGastos.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Cassia Alvalaz\Desktop\ControleDeGastos\ControleDeGastos\ControleDeGastos.Infrastructure\obj\Debug\net8.0\Controle.FB037327.Up2Date
+C:\Users\Cassia Alvalaz\Desktop\ControleDeGastos\ControleDeGastos\ControleDeGastos.Infrastructure\obj\Debug\net8.0\ControleDeGastos.Infrastructure.dll
+C:\Users\Cassia Alvalaz\Desktop\ControleDeGastos\ControleDeGastos\ControleDeGastos.Infrastructure\obj\Debug\net8.0\refint\ControleDeGastos.Infrastructure.dll
+C:\Users\Cassia Alvalaz\Desktop\ControleDeGastos\ControleDeGastos\ControleDeGastos.Infrastructure\obj\Debug\net8.0\ControleDeGastos.Infrastructure.pdb
+C:\Users\Cassia Alvalaz\Desktop\ControleDeGastos\ControleDeGastos\ControleDeGastos.Infrastructure\obj\Debug\net8.0\ControleDeGastos.Infrastructure.genruntimeconfig.cache
+C:\Users\Cassia Alvalaz\Desktop\ControleDeGastos\ControleDeGastos\ControleDeGastos.Infrastructure\obj\Debug\net8.0\ref\ControleDeGastos.Infrastructure.dll
